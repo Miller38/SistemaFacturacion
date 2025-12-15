@@ -1,3 +1,7 @@
+
+<img align="right" src="http://visitor-badge.laobi.icu/badge?page_id=Miller38/SistemaFacturacion" alt="Visitor Badge" />
+
+
 # 📄 Sistema de Facturación – Java Desktop
 
 ## 🧾 Descripción general
